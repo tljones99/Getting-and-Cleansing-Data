@@ -13,3 +13,5 @@ This project required the creation of one R script called run_analysis.R that do
 
 Additional Information
 You can find additional information about the variables, data and transformations in the CodeBook.md file.
+
+Ref:  JH, Getting and Cleansing Data project requirement
